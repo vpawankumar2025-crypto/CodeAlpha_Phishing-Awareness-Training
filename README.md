@@ -35,7 +35,7 @@ chromium task2_phishing_awareness/phishing_awareness.html
 git init
 git add .
 git commit -m "CodeAlpha Cybersecurity Internship — All 4 Tasks"
-git remote add origin https://github.com/vpawankumar2025-crypto/CodeAlpha_Phishing Awareness Training
+git remote add origin https://github.com/vpawankumar2025-crypto/CodeAlpha_Phishing-Awareness-Training
 git push -u origin main
 ```
 
